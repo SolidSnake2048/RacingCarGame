@@ -1,0 +1,19 @@
+html{
+    margin: 0;
+    padding: 0;
+  }
+  canvas{
+    background-color:yellowgreen;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    border: 2px solid black;
+  }
+  h2{
+    color:chartreuse;
+    font-family:'Courier New', Courier, monospace;
+  }
+  body{
+    background-color: teal;
+  }
+  
